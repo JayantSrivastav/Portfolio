@@ -21,7 +21,7 @@ const Projects = () => {
       desc: "An online Real-time code editor with collaboration feature.",
       image: CodeCollab,
       live: "https://code-collab-jtrj.onrender.com/",
-      github: "https://github.com/rohitsingh93300/YtSpicyBites",
+      github: "https://github.com/JayantSrivastav/code-collab",
     },
     {
       title: "DoneWithIt",
