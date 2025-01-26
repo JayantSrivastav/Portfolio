@@ -13,8 +13,8 @@ const Projects = () => {
       title: "Portfolio",
       desc: "A portfolio project is a showcase of your skills, creativity, and expertise, demonstrating your ability to solve real-world problems through well-designed and functional projects.",
       image: Portfolio,
-      live: "LiveLink",
-      github: "GitHub",
+      live: "https://jayantsrivastava-portfolio.vercel.app/",
+      github: "https://github.com/JayantSrivastav/Portfolio",
     },
     {
       title: "Code Coolab",
