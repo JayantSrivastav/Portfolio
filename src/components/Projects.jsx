@@ -20,7 +20,7 @@ const Projects = () => {
       title: "Code Coolab",
       desc: "An online Real-time code editor with collaboration feature.",
       image: CodeCollab,
-      live: "https://github.com/JayantSrivastav/code-collab",
+      live: "https://code-collab-jtrj.onrender.com/",
       github: "https://github.com/rohitsingh93300/YtSpicyBites",
     },
     {
