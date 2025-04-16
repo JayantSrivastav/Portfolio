@@ -6,7 +6,7 @@ import CodeCollab from "../assets/codecollab.png";
 
 import ECommerce from "../assets/ecommerceApp.png";
 import MetaGames from "../assets/metagames.png";
-import FlappyBird from "../assets/flappyBird.png";
+import FlappyBird from "../assets/flappyBird.jpg";
 
 const Projects = () => {
   const projectJson = [
