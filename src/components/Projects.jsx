@@ -6,6 +6,7 @@ import CodeCollab from "../assets/codecollab.png";
 import DoneWithIt from "../assets/donewithitApp.png";
 import ECommerce from "../assets/ecommerceApp.png";
 import MetaGames from "../assets/metagames.png";
+import FlappyBird from "../assets/flappybird.png";
 
 const Projects = () => {
   const projectJson = [
@@ -24,11 +25,11 @@ const Projects = () => {
       github: "https://github.com/JayantSrivastav/code-collab",
     },
     {
-      title: "DoneWithIt",
-      desc: " React Native Marketplace Application built with Expo CLI and Server build with NodeJs and MySQL.",
-      image: DoneWithIt,
-      live: "Live",
-      github: "GitHub",
+      title: "Flappy Bird",
+      desc: " React Native Game Application built with Expo CLI and Animations.",
+      image: FlappyBird,
+      live: "https://drive.google.com/drive/folders/12HR_NJnp9gpiSwf6LlWxCyZAKKA4i9sS?usp=sharing",
+      github: "https://github.com/JayantSrivastav/FlappyBird",
     },
     {
       title: "E Commerce App",
