@@ -26,7 +26,9 @@ const Projects = () => {
     },
     {
       title: "Flappy Bird",
-      desc: " React Native Game Application built with Expo CLI and Animations.",
+      desc: "2D side-scrolling game using React Native, with graphics rendered via React Native Skia
+            and animations handled by React Native Reanimated. Implemented custom physics, gesture controls,
+            collision detection, and a real-time scoring system to deliver a smooth and engaging mobile gameplay.",
       image: FlappyBird,
       live: "https://drive.google.com/drive/folders/12HR_NJnp9gpiSwf6LlWxCyZAKKA4i9sS?usp=sharing",
       github: "https://github.com/JayantSrivastav/FlappyBird",
