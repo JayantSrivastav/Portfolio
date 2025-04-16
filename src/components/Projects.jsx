@@ -3,7 +3,7 @@ import Portfolio from "../assets/portfolio.png";
 import Cards from "./Cards";
 import Admin from "../assets/admindashboard.png";
 import CodeCollab from "../assets/codecollab.png";
-import DoneWithIt from "../assets/donewithitApp.png";
+
 import ECommerce from "../assets/ecommerceApp.png";
 import MetaGames from "../assets/metagames.png";
 import FlappyBird from "../assets/flappybird.png";
